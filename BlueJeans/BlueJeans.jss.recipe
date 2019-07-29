@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of VS Code and then uploads to the JSS</string>
 	<key>Identifier</key>
-	<string>com.github.BigGuyinSF.fozzieland.jss.BlueJeans</string>
+	<string>com.github.fozzieland.jss.BlueJeans</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
